@@ -1,0 +1,12 @@
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\bin\Debug\EjArreglos.exe.config
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\bin\Debug\EjArreglos.exe
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\bin\Debug\EjArreglos.pdb
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\bin\Debug\EjArreglos.xml
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\obj\Debug\EjArreglos.vbproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\obj\Debug\EjArreglos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\obj\Debug\EjArreglos.Resources.resources
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\obj\Debug\EjArreglos.vbproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\obj\Debug\EjArreglos.vbproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\obj\Debug\EjArreglos.exe
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\obj\Debug\EjArreglos.xml
+C:\Users\Camilo\source\repos\EjArreglos\EjArreglos\obj\Debug\EjArreglos.pdb
