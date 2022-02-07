@@ -237,23 +237,27 @@
     Sub punto10()
         'Generar una matriz cuadrada NxN(solo valores impares y mayores a 3) y generar el sgte relleno: N=5
         Dim tam As Integer
+        Dim x As Integer
         Do
             Console.WriteLine("Digita la dimensión de la matriz")
             tam = Console.ReadLine()
-            If (tam <= 3 And tam Mod 2 = 0) Then
+            If (tam <= 3 Or tam Mod 2 = 0) Then
                 Console.WriteLine("La dimensión debe ser impar y mayor a 3")
             End If
-        Loop While (tam <= 3 And tam Mod 2 = 0)
+        Loop While (tam <= 3 Or tam Mod 2 = 0)
         Dim matriz(tam, tam) As Integer
-        For i = 0 To matriz.GetUpperBound(0) - 1
-            For j = 0 To matriz.GetUpperBound(1) - 1
-                If (i = j Or i > j) Then
-                    matriz(i, j) = tam - 1
-                End If
+        x = tam / 2 + 1
+        For i = 0 To x
+            For j = i + 1 To tam - 1 - (i + 1)
+                matriz(i, j) = 1
+                matriz(tam - i - 1, j) = 1
             Next
         Next
         For i = 0 To matriz.GetUpperBound(0) - 1
             For j = 0 To matriz.GetUpperBound(1) - 1
+                If (matriz(i, j) <> 1) Then
+                    matriz(i, j) = tam - 1
+                End If
                 Console.Write(matriz(i, j) & " ")
             Next
             Console.WriteLine()
