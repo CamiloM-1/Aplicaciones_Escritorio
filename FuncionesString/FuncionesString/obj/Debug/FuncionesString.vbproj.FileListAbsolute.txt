@@ -1,0 +1,12 @@
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\bin\Debug\FuncionesString.exe.config
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\bin\Debug\FuncionesString.exe
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\bin\Debug\FuncionesString.pdb
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\bin\Debug\FuncionesString.xml
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\obj\Debug\FuncionesString.vbproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\obj\Debug\FuncionesString.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\obj\Debug\FuncionesString.Resources.resources
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\obj\Debug\FuncionesString.vbproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\obj\Debug\FuncionesString.vbproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\obj\Debug\FuncionesString.exe
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\obj\Debug\FuncionesString.xml
+C:\Users\Camilo\source\repos\FuncionesString\FuncionesString\obj\Debug\FuncionesString.pdb

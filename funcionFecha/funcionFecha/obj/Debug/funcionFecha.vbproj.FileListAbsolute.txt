@@ -1,0 +1,12 @@
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\bin\Debug\funcionFecha.exe.config
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\bin\Debug\funcionFecha.exe
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\bin\Debug\funcionFecha.pdb
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\bin\Debug\funcionFecha.xml
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\obj\Debug\funcionFecha.vbproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\obj\Debug\funcionFecha.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\obj\Debug\funcionFecha.Resources.resources
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\obj\Debug\funcionFecha.vbproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\obj\Debug\funcionFecha.vbproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\obj\Debug\funcionFecha.exe
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\obj\Debug\funcionFecha.xml
+C:\Users\Camilo\source\repos\funcionFecha\funcionFecha\obj\Debug\funcionFecha.pdb

@@ -1,0 +1,12 @@
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\bin\Debug\Excepciones.xml
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\obj\Debug\Excepciones.vbproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\obj\Debug\Excepciones.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\obj\Debug\Excepciones.Resources.resources
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\obj\Debug\Excepciones.vbproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\obj\Debug\Excepciones.vbproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\obj\Debug\Excepciones.xml
+C:\Users\Camilo\source\repos\Excepciones\Excepciones\obj\Debug\Excepciones.pdb

@@ -1,0 +1,12 @@
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\bin\Debug\RelacionPOO.exe.config
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\bin\Debug\RelacionPOO.exe
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\bin\Debug\RelacionPOO.pdb
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\bin\Debug\RelacionPOO.xml
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\obj\Debug\RelacionPOO.vbproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\obj\Debug\RelacionPOO.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\obj\Debug\RelacionPOO.Resources.resources
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\obj\Debug\RelacionPOO.vbproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\obj\Debug\RelacionPOO.vbproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\obj\Debug\RelacionPOO.exe
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\obj\Debug\RelacionPOO.xml
+C:\Users\Camilo\source\repos\RelacionPOO\RelacionPOO\obj\Debug\RelacionPOO.pdb

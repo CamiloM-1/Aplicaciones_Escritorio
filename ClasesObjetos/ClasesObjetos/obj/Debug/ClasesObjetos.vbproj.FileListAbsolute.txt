@@ -1,0 +1,12 @@
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe.config
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.exe
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.pdb
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\bin\Debug\ClasesObjetos.xml
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbproj.AssemblyReference.cache
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.Resources.resources
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbproj.GenerateResource.cache
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.vbproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.exe
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.xml
+C:\Users\Camilo\source\repos\ClasesObjetos\ClasesObjetos\obj\Debug\ClasesObjetos.pdb
